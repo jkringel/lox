@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Lox" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.jkringel.lox.Lox" />
+    <module name="lox" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.jkringel.lox.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
