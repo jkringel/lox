@@ -160,7 +160,7 @@ public class Parser {
             return false;
         }
 
-        return peek().type == EOF;
+        return peek().type == type;
     }
 
     private Token advance() {
